@@ -7,8 +7,11 @@ Cred for tasks
 
   1.1
   SQL input
+  
   ![image](https://github.com/user-attachments/assets/08ad408f-67a8-480d-ac9f-2e0fa1ab35e9)
+  
   SQL output
+  
   ![image](https://github.com/user-attachments/assets/c55a7e46-0f04-4a92-ae59-6b21156bd98a)
 
 
