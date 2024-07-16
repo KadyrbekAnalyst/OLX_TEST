@@ -17,8 +17,11 @@ Cred for tasks
 
   1.2
   SQL input
+  
   ![image](https://github.com/user-attachments/assets/03b4c262-448f-4b58-ac46-10b355f6b42f)
+  
   SQL output
+  
   ![image](https://github.com/user-attachments/assets/b3ded1c6-b020-424d-a41f-1ca3905b046c)
 
 
@@ -26,11 +29,13 @@ Cred for tasks
 
   2.1
   Python connection
+  
   ![image](https://github.com/user-attachments/assets/5677b16e-6aa4-4ce8-9267-f4a0abec93f3)
 
 
   2.2
   Get table from 1.2
+  
   ![image](https://github.com/user-attachments/assets/01d2b535-a6bc-498a-9e38-0cbb3c6df700)
 
 
