@@ -41,6 +41,26 @@ Cred for tasks
 
 
   2.3
+  Python input
+
+  ![image](https://github.com/user-attachments/assets/4bb8f68d-79d8-4cd5-8bc0-113790d62343)
+
+  Python output
+
+  ![image](https://github.com/user-attachments/assets/d84c0bf4-ae9a-4f43-9b9b-c541ad988510)
+
+  2.4 - 2.5
+  Create Google sheet - by hand
+  Python Google sheet connection
+
+  ![image](https://github.com/user-attachments/assets/7cb5d1f5-d2bb-41bf-9460-ac9576884d83)
+
+
+  
+
+
+
+  
   
 
 
