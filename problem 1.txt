@@ -1,0 +1,18 @@
+-- 1.1 problem
+select distinct user_id
+from ads
+where server_date between '2020-03-01' and '2020-03-31'
+and user_id not in
+    (select distinct user_id
+     from ads
+     where server_date between '2020-04-01' and '2020-04-30');
+
+-- 1.2 problem
+SELECT
+    user_id,
+    category_id,
+    category_name,
+    COUNT(*) AS ads,
+    RANK() OVER (PARTITION BY user_id ORDER BY COUNT(*)  DESC) AS category_rank
+FROM ads
+GROUP BY user_id, category_id , category_name;

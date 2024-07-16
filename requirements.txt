@@ -1,0 +1,4 @@
+os
+psycopg2
+dotenv 
+pandas
