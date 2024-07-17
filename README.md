@@ -4,6 +4,10 @@ Cred for tasks
 
 ![image](https://github.com/user-attachments/assets/29c58435-cca8-463c-bdc2-4408970c6673)
 
+
+Link for Google sheet :
+https://docs.google.com/spreadsheets/d/1smY4dCVOOVxkB0BmdSFoCCiiiEjrYi1cCyiitX36TmU/edit?usp=sharing
+
 # Task 1
 
   1.1
