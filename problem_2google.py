@@ -8,7 +8,7 @@ scopes = ['https://www.googleapis.com/auth/spreadsheets',
           'https://www.googleapis.com/auth/drive']
 
 # Cred keys
-credentials = Credentials.from_service_account_file('even-ruler-403804-bd6b3d83fc9c.json', scopes=scopes)
+credentials = Credentials.from_service_account_file('even-ruler-403804-bd6b3d83fc9c.json', scopes=scopes) # the json cred for connect to google service - even-ruler-403804-bd6b3d83fc9c.json
 
 # Авторизация
 gc = gspread.authorize(credentials)
